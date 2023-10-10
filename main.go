@@ -13,6 +13,7 @@ import (
 	// _ "github.com/Mrs4s/go-cqhttp/modules/pprof" // pprof 性能分析
 )
 
+
 func main() {
 	terminal.SetTitle()
 	gocq.InitBase()
